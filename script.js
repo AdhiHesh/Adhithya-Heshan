@@ -109,7 +109,7 @@ const projectData = {
     project1: {
         title: 'Traveling Agency',
         description: 'A comprehensive travel management system designed specifically for Sri Lankan travelers. This platform features automated itinerary generation that adapts to user preferences, real-time destination insights powered by live data feeds, and a seamless booking experience. The system integrates with various travel APIs to provide up-to-date information on accommodations, attractions, and local events. Built with a focus on user experience, it offers intuitive navigation and responsive design that works perfectly across all devices.',
-        tech: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'REST APIs'],
+        tech: ['HTML', 'CSS', 'JavaScript', 'PHP'],
         images: [
             'assents/traveling_agency/1.png',
             'assents/traveling_agency/2.png',
@@ -146,7 +146,7 @@ const projectData = {
     project4: {
         title: 'Smart Plant Watering System',
         description: 'A sophisticated closed-loop robotic system designed for precision agriculture and automated plant care. This intelligent system uses an array of sensors including soil moisture sensors, temperature and humidity sensors, and light sensors to monitor plant conditions in real-time. Based on the collected data, it automatically delivers the optimal amount of water to each plant, ensuring healthy growth while conserving resources. The system leverages low-power IoT protocols for efficient communication with cloud services, enabling remote monitoring and control. Features include customizable watering schedules, multi-zone support, weather integration, and detailed analytics on water usage and plant health.',
-        tech: ['Arduino', 'Firebase', 'C++', 'ESP32', 'IoT Sensors', 'MQTT'],
+        tech: ['Arduino', 'Firebase', 'C++', 'ESP32', 'IoT Sensors'],
         images: [
             'assents/Smart_plant_watering_system/1.jpg',
             'assents/Smart_plant_watering_system/2.jpg',
@@ -159,7 +159,7 @@ const projectData = {
     project5: {
         title: 'AI Crop Recommendation System',
         description: 'An intelligent agricultural advisory system that uses machine learning to recommend the most suitable crops for specific land parcels. By analyzing comprehensive soil data including NPK (Nitrogen, Phosphorus, Potassium) levels, pH balance, organic matter content, and environmental factors such as rainfall, temperature, and humidity patterns, this system provides data-driven crop recommendations. The machine learning model has been trained on extensive agricultural datasets to predict crop suitability with high accuracy. This tool helps farmers make informed decisions, maximize yield potential, optimize resource utilization, and ensure sustainable farming practices. The web interface is designed to be accessible to farmers with varying levels of technical expertise.',
-        tech: ['HTML', 'CSS', 'JavaScript', 'Python', 'Machine Learning', 'Scikit-learn', 'Pandas'],
+        tech: ['HTML', 'CSS', 'JavaScript', 'Python', 'Machine Learning', 'Scikit-learn'],
         images: [
             'assents/AI_crop_recomondation_system/1.png',
             'assents/AI_crop_recomondation_system/2.png'
@@ -169,7 +169,7 @@ const projectData = {
     project6: {
         title: 'Smart Expense Tracker',
         description: 'A robust personal finance management application built with Java and object-oriented programming principles. This desktop application features a clean, intuitive interface designed in Figma and implemented with Java Swing. The system handles complex financial data management through well-designed encapsulated classes, inheritance hierarchies, and polymorphic behavior. Users can track daily expenses, categorize spending, set budgets, generate detailed reports, and visualize their financial habits through interactive charts and graphs. The application includes features like recurring transactions, multi-currency support, data export capabilities, and secure local data storage. Built with a focus on data integrity and user privacy, it provides a secure and efficient way to manage personal finances.',
-        tech: ['Figma', 'OOP', 'Java', 'Swing', 'SQLite', 'Design Patterns'],
+        tech: ['Figma', 'OOP', 'Java'],
         images: [
             'assents/smart expesce tracker/1.png',
             'assents/smart expesce tracker/2.png',
