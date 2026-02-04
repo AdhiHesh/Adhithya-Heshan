@@ -108,7 +108,7 @@ for (let i = 0; i < list.length; i++) {
 const projectData = {
     project1: {
         title: 'Traveling Agency',
-        description: 'A comprehensive travel management system designed specifically for Sri Lankan travelers. This platform features automated itinerary generation that adapts to user preferences, real-time destination insights powered by live data feeds, and a seamless booking experience. The system integrates with various travel APIs to provide up-to-date information on accommodations, attractions, and local events. Built with a focus on user experience, it offers intuitive navigation and responsive design that works perfectly across all devices.',
+        description: 'A comprehensive travel management system designed specifically for Sri Lankan travelers. This platform features customizable itinerary planning based on user preferences, detailed destination information, and a seamless booking experience. The system provides curated content on accommodations, attractions, and local events. Built with a strong focus on user experience, it offers intuitive navigation and responsive design that works perfectly across all devices.',
         tech: ['HTML', 'CSS', 'JavaScript', 'PHP'],
         images: [
             'assents/traveling_agency/1.png',
@@ -123,7 +123,7 @@ const projectData = {
     },
     project2: {
         title: 'Plant Watering System Dashboard',
-        description: 'An advanced IoT dashboard built for real-time monitoring and control of smart plant watering systems. This high-performance web application connects to ESP32-based sensors via Firebase, displaying live data on soil moisture, temperature, humidity, and water levels. The dashboard features interactive data analytics with beautiful charts and graphs, historical data tracking, automated watering schedules, and instant device control. The responsive design ensures seamless operation across desktop and mobile devices, making plant care management effortless.',
+        description: 'An advanced IoT dashboard built for real-time monitoring and control of smart plant watering systems. This high-performance web application connects to ESP32-based sensors via Firebase, displaying live data on soil moisture and water levels. The dashboard provides instant device control and a responsive design that ensures seamless operation across desktop and mobile devices, making plant care management effortless.',
         tech: ['HTML', 'CSS', 'JavaScript', 'Firebase', 'IoT', 'Real-time Database'],
         images: [
             'assents/smart_plant_watering_system_web/1.png',
@@ -145,7 +145,7 @@ const projectData = {
     },
     project4: {
         title: 'Smart Plant Watering System',
-        description: 'A sophisticated closed-loop robotic system designed for precision agriculture and automated plant care. This intelligent system uses an array of sensors including soil moisture sensors, temperature and humidity sensors, and light sensors to monitor plant conditions in real-time. Based on the collected data, it automatically delivers the optimal amount of water to each plant, ensuring healthy growth while conserving resources. The system leverages low-power IoT protocols for efficient communication with cloud services, enabling remote monitoring and control. Features include customizable watering schedules, multi-zone support, weather integration, and detailed analytics on water usage and plant health.',
+        description: 'A sophisticated closed-loop robotic system designed for precision agriculture and automated plant care. This intelligent system uses an array of sensors including soil moisture sensors and light sensors to monitor plant conditions in real-time. Based on the collected data, it automatically delivers the optimal amount of water to each plant, ensuring healthy growth while conserving resources. The system leverages low-power IoT protocols for efficient communication with cloud services, enabling remote monitoring and control. Features include customizable watering schedules, multi-zone support, weather integration, and detailed analytics on water usage and plant health.',
         tech: ['Arduino', 'Firebase', 'C++', 'ESP32', 'IoT Sensors'],
         images: [
             'assents/Smart_plant_watering_system/1.jpg',
